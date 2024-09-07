@@ -1,7 +1,9 @@
 # VA-Converter
 A program for batch "merging" video and audio files.<br>
-The default is to use VLC, but other tools can potentially be used by specifying a different command template.
 
+**It was made primarily for personal use**, but you never know who might find such a "crutch" useful.
+
+The default is to use VLC, but other tools can potentially be used by specifying a different command template.<br>
 Optionally, it can use [`tqdm`](https://pypi.org/project/tqdm/) to display brief information.
 
 ## Usage
